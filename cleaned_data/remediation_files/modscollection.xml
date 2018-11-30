@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"><mods>
+<identifier type="pid">univmonthly_100</identifier>
+<titleInfo><title>University monthly, volume 1, number 2</title></titleInfo>
+<abstract>Newspaper published monthly by East Tennessee University literary societies Chi Delta and the Philomathesian reporting campus and local news.</abstract>
+<note>Publications by students.</note>
+<name type="corporate" valueURI="http://id.loc.gov/authorities/names/nr95035347">
+<namePart>East Tennessee University</namePart>
+<role>
+<roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+</role>
+</name>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026656">newspapers</form></physicalDescription>
+<originInfo><dateIssued>Apr 15, 1875</dateIssued><dateIssued encoding="edtf">1875-04-15</dateIssued><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028351"><topic>College student newspapers and periodicals</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/names/no2008074606"><topic>19th century U.S. newspapers</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh00007640"><topic>Knoxville (Tenn.)--History</topic></subject>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University Monthly</title></titleInfo></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<language><languageTerm type="text" authority="iso639-2b">English</languageTerm></language>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging><languageTerm type="text" authority="iso639-2b">English</languageTerm></languageOfCataloging><recordOrigin>
+Created and edited in general conformance to MODS Guidelines (Version 3.5).
+</recordOrigin></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>
+
+<mods>
+<identifier type="pid">univmonthly_109</identifier>
+<titleInfo><title>University monthly, volume 1, number 1</title></titleInfo>
+<abstract>Newspaper published monthly by East Tennessee University literary societies Chi Delta and the Philomathesian reporting campus and local news.</abstract>
+<note>Publications by students.</note>
+<name type="corporate" valueURI="http://id.loc.gov/authorities/names/nr95035347">
+<namePart>East Tennessee University</namePart>
+<role>
+<roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+</role>
+</name>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026656">newspapers</form></physicalDescription>
+<originInfo><dateIssued>Mar 15, 1875</dateIssued><dateIssued encoding="edtf">1875-03-15</dateIssued><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028351"><topic>College student newspapers and periodicals</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/names/no2008074606"><topic>19th century U.S. newspapers</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh00007640"><topic>Knoxville (Tenn.)--History</topic></subject>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University Monthly</title></titleInfo></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<language><languageTerm type="text" authority="iso639-2b">English</languageTerm></language>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging><languageTerm type="text" authority="iso639-2b">English</languageTerm></languageOfCataloging><recordOrigin>
+Created and edited in general conformance to MODS Guidelines (Version 3.5).
+</recordOrigin></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>
+
+<mods>
+<identifier type="pid">univmonthly_10</identifier>
+<titleInfo><title>University monthly, volume 3, number 3</title></titleInfo>
+<abstract>Newspaper published monthly by East Tennessee University literary societies Chi Delta and the Philomathesian reporting campus and local news.</abstract>
+<note>Publications by students.</note>
+<name type="corporate" valueURI="http://id.loc.gov/authorities/names/nr95035347">
+<namePart>East Tennessee University</namePart>
+<role>
+<roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+</role>
+</name>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026656">newspapers</form></physicalDescription>
+<originInfo><dateIssued>Apr 24, 1876</dateIssued><dateIssued encoding="edtf">1876-04-24</dateIssued><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028351"><topic>College student newspapers and periodicals</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/names/no2008074606"><topic>19th century U.S. newspapers</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh00007640"><topic>Knoxville (Tenn.)--History</topic></subject>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University Monthly</title></titleInfo></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<language><languageTerm type="text" authority="iso639-2b">English</languageTerm></language>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging><languageTerm type="text" authority="iso639-2b">English</languageTerm></languageOfCataloging><recordOrigin>
+Created and edited in general conformance to MODS Guidelines (Version 3.5).
+</recordOrigin></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>
+
+<mods>
+<identifier type="pid">univmonthly_19</identifier>
+<titleInfo><title>University monthly, volume 3, number 2</title></titleInfo>
+<abstract>Newspaper published monthly by East Tennessee University literary societies Chi Delta and the Philomathesian reporting campus and local news.</abstract>
+<note>Publications by students.</note>
+<name type="corporate" valueURI="http://id.loc.gov/authorities/names/nr95035347">
+<namePart>East Tennessee University</namePart>
+<role>
+<roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+</role>
+</name>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026656">newspapers</form></physicalDescription>
+<originInfo><dateIssued>Mar 24, 1876</dateIssued><dateIssued encoding="edtf">1876-03-24</dateIssued><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028351"><topic>College student newspapers and periodicals</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/names/no2008074606"><topic>19th century U.S. newspapers</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh00007640"><topic>Knoxville (Tenn.)--History</topic></subject>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University Monthly</title></titleInfo></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<language><languageTerm type="text" authority="iso639-2b">English</languageTerm></language>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging><languageTerm type="text" authority="iso639-2b">English</languageTerm></languageOfCataloging><recordOrigin>
+Created and edited in general conformance to MODS Guidelines (Version 3.5).
+</recordOrigin></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>
+
+<mods>
+<identifier type="pid">univmonthly_1</identifier>
+<titleInfo><title>University monthly, volume 3, number 4</title></titleInfo>
+<abstract>Newspaper published monthly by East Tennessee University literary societies Chi Delta and the Philomathesian reporting campus and local news.</abstract>
+<note>Publications by students.</note>
+<name type="corporate" valueURI="http://id.loc.gov/authorities/names/nr95035347">
+<namePart>East Tennessee University</namePart>
+<role>
+<roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+</role>
+</name>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026656">newspapers</form></physicalDescription>
+<originInfo><dateIssued>May 24, 1876</dateIssued><dateIssued encoding="edtf">1876-05-24</dateIssued><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028351"><topic>College student newspapers and periodicals</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/names/no2008074606"><topic>19th century U.S. newspapers</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh00007640"><topic>Knoxville (Tenn.)--History</topic></subject>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University Monthly</title></titleInfo></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<language><languageTerm type="text" authority="iso639-2b">English</languageTerm></language>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging><languageTerm type="text" authority="iso639-2b">English</languageTerm></languageOfCataloging><recordOrigin>
+Created and edited in general conformance to MODS Guidelines (Version 3.5).
+</recordOrigin></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>
+
+<mods>
+<identifier type="pid">univmonthly_28</identifier>
+<titleInfo><title>University monthly, volume 2, number 6</title></titleInfo>
+<abstract>Newspaper published monthly by East Tennessee University literary societies Chi Delta and the Philomathesian reporting campus and local news.</abstract>
+<note>Publications by students.</note>
+<name type="corporate" valueURI="http://id.loc.gov/authorities/names/nr95035347">
+<namePart>East Tennessee University</namePart>
+<role>
+<roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+</role>
+</name>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026656">newspapers</form></physicalDescription>
+<originInfo><dateIssued>Feb 24, 1876</dateIssued><dateIssued encoding="edtf">1876-02-24</dateIssued><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028351"><topic>College student newspapers and periodicals</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/names/no2008074606"><topic>19th century U.S. newspapers</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh00007640"><topic>Knoxville (Tenn.)--History</topic></subject>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University Monthly</title></titleInfo></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<language><languageTerm type="text" authority="iso639-2b">English</languageTerm></language>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging><languageTerm type="text" authority="iso639-2b">English</languageTerm></languageOfCataloging><recordOrigin>
+Created and edited in general conformance to MODS Guidelines (Version 3.5).
+</recordOrigin></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>
+
+<mods>
+<identifier type="pid">univmonthly_37</identifier>
+<titleInfo><title>University monthly, volume 2, number 5</title></titleInfo>
+<abstract>Newspaper published monthly by East Tennessee University literary societies Chi Delta and the Philomathesian reporting campus and local news.</abstract>
+<note>Publications by students.</note>
+<name type="corporate" valueURI="http://id.loc.gov/authorities/names/nr95035347">
+<namePart>East Tennessee University</namePart>
+<role>
+<roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+</role>
+</name>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026656">newspapers</form></physicalDescription>
+<originInfo><dateIssued>Jan 20, 1876</dateIssued><dateIssued encoding="edtf">1876-01-20</dateIssued><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028351"><topic>College student newspapers and periodicals</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/names/no2008074606"><topic>19th century U.S. newspapers</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh00007640"><topic>Knoxville (Tenn.)--History</topic></subject>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University Monthly</title></titleInfo></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<language><languageTerm type="text" authority="iso639-2b">English</languageTerm></language>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging><languageTerm type="text" authority="iso639-2b">English</languageTerm></languageOfCataloging><recordOrigin>
+Created and edited in general conformance to MODS Guidelines (Version 3.5).
+</recordOrigin></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>
+
+<mods>
+<identifier type="pid">univmonthly_46</identifier>
+<titleInfo><title>University monthly, volume 2, number 4</title></titleInfo>
+<abstract>Newspaper published monthly by East Tennessee University literary societies Chi Delta and the Philomathesian reporting campus and local news.</abstract>
+<note>Publications by students.</note>
+<name type="corporate" valueURI="http://id.loc.gov/authorities/names/nr95035347">
+<namePart>East Tennessee University</namePart>
+<role>
+<roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+</role>
+</name>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026656">newspapers</form></physicalDescription>
+<originInfo><dateIssued>Dec 20, 1875</dateIssued><dateIssued encoding="edtf">1875-12-20</dateIssued><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028351"><topic>College student newspapers and periodicals</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/names/no2008074606"><topic>19th century U.S. newspapers</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh00007640"><topic>Knoxville (Tenn.)--History</topic></subject>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University Monthly</title></titleInfo></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<language><languageTerm type="text" authority="iso639-2b">English</languageTerm></language>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging><languageTerm type="text" authority="iso639-2b">English</languageTerm></languageOfCataloging><recordOrigin>
+Created and edited in general conformance to MODS Guidelines (Version 3.5).
+</recordOrigin></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>
+
+<mods>
+<identifier type="pid">univmonthly_55</identifier>
+<titleInfo><title>University monthly, volume 2, number 3</title></titleInfo>
+<abstract>Newspaper published monthly by East Tennessee University literary societies Chi Delta and the Philomathesian reporting campus and local news.</abstract>
+<note>Publications by students.</note>
+<name type="corporate" valueURI="http://id.loc.gov/authorities/names/nr95035347">
+<namePart>East Tennessee University</namePart>
+<role>
+<roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+</role>
+</name>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026656">newspapers</form></physicalDescription>
+<originInfo><dateIssued>Nov 20, 1875</dateIssued><dateIssued encoding="edtf">1875-11-20</dateIssued><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028351"><topic>College student newspapers and periodicals</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/names/no2008074606"><topic>19th century U.S. newspapers</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh00007640"><topic>Knoxville (Tenn.)--History</topic></subject>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University Monthly</title></titleInfo></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<language><languageTerm type="text" authority="iso639-2b">English</languageTerm></language>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging><languageTerm type="text" authority="iso639-2b">English</languageTerm></languageOfCataloging><recordOrigin>
+Created and edited in general conformance to MODS Guidelines (Version 3.5).
+</recordOrigin></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>
+
+<mods>
+<identifier type="pid">univmonthly_64</identifier>
+<titleInfo><title>University monthly, volume 2, number 2</title></titleInfo>
+<abstract>Newspaper published monthly by East Tennessee University literary societies Chi Delta and the Philomathesian reporting campus and local news.</abstract>
+<note>Publications by students.</note>
+<name type="corporate" valueURI="http://id.loc.gov/authorities/names/nr95035347">
+<namePart>East Tennessee University</namePart>
+<role>
+<roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+</role>
+</name>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026656">newspapers</form></physicalDescription>
+<originInfo><dateIssued>Oct 23, 1875</dateIssued><dateIssued encoding="edtf">1875-10-23</dateIssued><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028351"><topic>College student newspapers and periodicals</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/names/no2008074606"><topic>19th century U.S. newspapers</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh00007640"><topic>Knoxville (Tenn.)--History</topic></subject>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University Monthly</title></titleInfo></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<language><languageTerm type="text" authority="iso639-2b">English</languageTerm></language>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging><languageTerm type="text" authority="iso639-2b">English</languageTerm></languageOfCataloging><recordOrigin>
+Created and edited in general conformance to MODS Guidelines (Version 3.5).
+</recordOrigin></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>
+
+<mods>
+<identifier type="pid">univmonthly_73</identifier>
+<titleInfo><title>University monthly, volume 2, number 1</title></titleInfo>
+<abstract>Newspaper published monthly by East Tennessee University literary societies Chi Delta and the Philomathesian reporting campus and local news.</abstract>
+<note>Publications by students.</note>
+<name type="corporate" valueURI="http://id.loc.gov/authorities/names/nr95035347">
+<namePart>East Tennessee University</namePart>
+<role>
+<roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+</role>
+</name>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026656">newspapers</form></physicalDescription>
+<originInfo><dateIssued>Sep 20, 1875</dateIssued><dateIssued encoding="edtf">1875-09-20</dateIssued><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028351"><topic>College student newspapers and periodicals</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/names/no2008074606"><topic>19th century U.S. newspapers</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh00007640"><topic>Knoxville (Tenn.)--History</topic></subject>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University Monthly</title></titleInfo></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<language><languageTerm type="text" authority="iso639-2b">English</languageTerm></language>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging><languageTerm type="text" authority="iso639-2b">English</languageTerm></languageOfCataloging><recordOrigin>
+Created and edited in general conformance to MODS Guidelines (Version 3.5).
+</recordOrigin></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>
+
+<mods>
+<identifier type="pid">univmonthly_82</identifier>
+<titleInfo><title>University monthly, volume 1, number 4</title></titleInfo>
+<abstract>Newspaper published monthly by East Tennessee University literary societies Chi Delta and the Philomathesian reporting campus and local news.</abstract>
+<note>Publications by students.</note>
+<name type="corporate" valueURI="http://id.loc.gov/authorities/names/nr95035347">
+<namePart>East Tennessee University</namePart>
+<role>
+<roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+</role>
+</name>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026656">newspapers</form></physicalDescription>
+<originInfo><dateIssued>Jun 15, 1875</dateIssued><dateIssued encoding="edtf">1875-06-15</dateIssued><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028351"><topic>College student newspapers and periodicals</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/names/no2008074606"><topic>19th century U.S. newspapers</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh00007640"><topic>Knoxville (Tenn.)--History</topic></subject>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University Monthly</title></titleInfo></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<language><languageTerm type="text" authority="iso639-2b">English</languageTerm></language>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging><languageTerm type="text" authority="iso639-2b">English</languageTerm></languageOfCataloging><recordOrigin>
+Created and edited in general conformance to MODS Guidelines (Version 3.5).
+</recordOrigin></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>
+
+<mods>
+<identifier type="pid">univmonthly_91</identifier>
+<titleInfo><title>University monthly, volume 1, number 3</title></titleInfo>
+<abstract>Newspaper published monthly by East Tennessee University literary societies Chi Delta and the Philomathesian reporting campus and local news.</abstract>
+<note>Publications by students.</note>
+<name type="corporate" valueURI="http://id.loc.gov/authorities/names/nr95035347">
+<namePart>East Tennessee University</namePart>
+<role>
+<roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+</role>
+</name>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026656">newspapers</form></physicalDescription>
+<originInfo><dateIssued>May 15, 1875</dateIssued><dateIssued encoding="edtf">1875-05-15</dateIssued><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028351"><topic>College student newspapers and periodicals</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/names/no2008074606"><topic>19th century U.S. newspapers</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh00007640"><topic>Knoxville (Tenn.)--History</topic></subject>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University Monthly</title></titleInfo></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<language><languageTerm type="text" authority="iso639-2b">English</languageTerm></language>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging><languageTerm type="text" authority="iso639-2b">English</languageTerm></languageOfCataloging><recordOrigin>
+Created and edited in general conformance to MODS Guidelines (Version 3.5).
+</recordOrigin></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>
+</modsCollection>
