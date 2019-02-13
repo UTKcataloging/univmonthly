@@ -5,6 +5,7 @@ Metadata for University Monthly collection
 
 ```
 |-- cleaned_data
+    |-- collection_record.xml
     |-- modsxml
     |-- remediation_files
         |-- univmonthly.openrefine.tar.gz
